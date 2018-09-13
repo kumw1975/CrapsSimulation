@@ -8,7 +8,7 @@ We will do each of the following steps together in class.
 
 (skip) [1] <strike>Start Eclipse on your local PC, then clone the GitHub repository ("repo") https://github.com/seis-635-fall2018/CrapsSimulation.git.  Eclipse asks you where to place the project within a Git directory: you may accept the default or else place it elsewhere.  However, it's not a good idea to put it within the Eclipse workspace. </strike>
 
-import> Git > projects from Git > clone URI
+<strong>import> Git > projects from Git > clone URI</strong>
 
 Once cloned, you'll see the Java project 635_craps_simulation within Eclipse's Project Explorer view, with starting (main()) class TestCraps.
 
